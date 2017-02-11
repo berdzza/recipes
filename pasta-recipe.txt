@@ -1,0 +1,5 @@
+Ingredients:
+ - Inta
+Directions:
+ 1. Ask Inta to make pasta. 
+ 2. East pasta. 
